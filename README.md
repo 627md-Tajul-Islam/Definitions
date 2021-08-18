@@ -40,3 +40,10 @@ Software engineering is a detailed study of engineering that deals with the desi
 
 সফটওয়্যার ইঞ্জিনিয়ারিং হল প্রকৌশল সম্পর্কিত একটি বিশদ গবেষণা যেটি সফ্টওয়্যারটির নকশা, বিকাশ এবং রক্ষণাবেক্ষণ সম্পর্কে করা হয়। 
 
+5/ What is software development?
+
+Software development is the process of designing, designing, programming, documenting, testing and bug fixing involving the creation and maintenance of applications, frameworks or other software components.
+
+সফটওয়্যার ডেভেলপমেন্ট কি ?
+
+সফ্টওয়্যার ডেভেলপমেন্ট হল অ্যাপ্লিকেশন, ফ্রেমওয়ার্ক বা অন্যান্য সফ্টওয়্যার উপাদান তৈরি এবং রক্ষণাবেক্ষণের সাথে জড়িত, নির্দিষ্টকরণ, ডিজাইনিং, প্রোগ্রামিং, ডকুমেন্টিং, টেস্টিং এবং বাগ ফিক্সিংয়ের প্রক্রিয়া
