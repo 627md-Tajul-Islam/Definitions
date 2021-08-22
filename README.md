@@ -60,16 +60,27 @@ SDLC(Software Development Lifecycle) কি ?
 
 SDLC is a step in software engineering to develop the desired software application.
 Basically the work is done by following the steps below
+
 1 / Communication
+
 2 / Requirement Gathering
+
 3 / Feasibility Study
+
 4 / System Analysis (Section Analysis)
+
 5 / Software Design (Software Design)
+
 6 / Coding
+
 7 / Testing
+
 8 / Integration
+
 9 / Implementation
+
 10 / Operations and maintenance
+
 11 / Disposition
 
 SDLC(Software Development Lifecycle) এর ধাপ কি কি ?
