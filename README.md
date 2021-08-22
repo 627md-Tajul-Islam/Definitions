@@ -86,15 +86,27 @@ Basically the work is done by following the steps below
 SDLC(Software Development Lifecycle) এর ধাপ কি কি ?
 
 এসডিএলসি হ'ল কাঙ্ক্ষিত সফ্টওয়্যার অ্যাপ্লিকেশন ডেভেলপ করার জন্য সফটওয়্যার ইঞ্জিনিয়ারিংয়ের একটি ধাপ।
+
 নিচের ধাপগুলা অনুসরণ করে মুলত কাজ করা হয়
+
 1/ Communication (যোগাযোগ)
+
 2/ Requirement Gathering (প্রয়োজনীয়তা সংগ্রহ)
+
 3/  Feasibility Study (সম্ভাব্যতা অধ্যয়ন)
+
 4/ System Analysis (ধারা বিশ্লেষণ)
+
 5/ Software Design (সফটওয়্যার ডিজাইন)
+
 6/ Coding (কোডিং)
+
 7/ Testing (পরীক্ষামূলক)
+
 8/ Integration (মিশ্রণ)
+
 9/ Implementation (বাস্তবায়ন)
+
 10/ Operations and maintenance (অপারেশন এবং রক্ষণাবেক্ষণ)
+
 11/ Disposition (স্বভাব)
