@@ -126,3 +126,17 @@ A computer programmer, sometimes called a software developer, programmer, or mor
 সফটওয়্যার  ডেভেলপার কে ?
 
 একজন কম্পিউটার প্রোগ্রামার, যাকে কখনও কখনও সফ্টওয়্যার ডেভেলপার, প্রোগ্রামার বা খুব সাম্প্রতিক সময়ে কোডার বলা হয়, এমন ব্যক্তি যিনি কম্পিউটার সফ্টওয়্যার তৈরি করেন।
+
+10/ Are software engineers and software developers the same or different?
+
+A software engineer is someone who applies the principles of software engineering for software design, development, maintenance, testing, and evaluation where a software developer is a professional who creates software that runs across a variety of computers.
+According to Computer Science Degree Hub, software developers and software engineers have different roles:
+Software Engineer refers to the engineering principles applied to the creation of software. On the other hand, the core of the creative energy behind software developer programs.
+So these are two different professions
+
+সফটওয়্যার ইঞ্জিনিয়ার এবং  সফটওয়্যার  ডেভেলপার কি একই নাকি আলাদা ?
+
+সফটওয়্যার ইঞ্জিনিয়ার এমন কেউ একজন যিনি সফ্টওয়্যার ডিজাইন, বিকাশ, রক্ষণাবেক্ষণ, পরীক্ষা ও মূল্যায়নের জন্য সফটওয়্যার ইঞ্জিনিয়ারিংয়ের নীতিগুলি প্রয়োগ করেন যেখানে সফ্টওয়্যার ডেভেলপার এমন এক পেশাদার যিনি বিভিন্ন ধরণের কম্পিউটার জুড়ে চলে এমন একটি সফ্টওয়্যার তৈরি করেন যা সফটওয়্যার তৈরি করে 
+Computer Science Degree Hub অনুসারে সফটওয়্যার ডেভেলপার এবং সফটওয়্যার ইঞ্জিনিয়ারদের আলাদা আলাদা ভূমিকা রয়েছেঃ
+সফটওয়্যার ইঞ্জিনিয়ার সফটওয়্যার তৈরির জন্য প্রয়োগকৃত ইঞ্জিনিয়ারিং নীতি কে বোঝায়। অন্যদিকে, সফ্টওয়্যার ডেভেলপার প্রোগ্রামগুলির পিছনে চালিত সৃজনশীল শক্তির মূল।
+সুতরাং এই ২ টা আলাদা পেশা 
