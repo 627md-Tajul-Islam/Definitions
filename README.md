@@ -56,3 +56,34 @@ SDLC(Software Development Lifecycle) কি ?
 
 সিস্টেম ইঞ্জিনিয়ারিং, ইনফরমেশন সিস্টেম এবং সফটওয়্যার ইঞ্জিনিয়ারিংয়ে SDLC কে অ্যাপ্লিকেশন ডেভলপমেন্ট জীবন-চক্র হিসাবেও চিহ্নিত করা হয়, এটি একটি ডেটা সিস্টেমের পরিকল্পনা, তৈরি, পরীক্ষা ও স্থাপনার জন্য একটি প্রক্রিয়া 
 
+7/ What are the steps of SDLC (Software Development Lifecycle)?
+
+SDLC is a step in software engineering to develop the desired software application.
+Basically the work is done by following the steps below
+1 / Communication
+2 / Requirement Gathering
+3 / Feasibility Study
+4 / System Analysis (Section Analysis)
+5 / Software Design (Software Design)
+6 / Coding
+7 / Testing
+8 / Integration
+9 / Implementation
+10 / Operations and maintenance
+11 / Disposition
+
+SDLC(Software Development Lifecycle) এর ধাপ কি কি ?
+
+এসডিএলসি হ'ল কাঙ্ক্ষিত সফ্টওয়্যার অ্যাপ্লিকেশন ডেভেলপ করার জন্য সফটওয়্যার ইঞ্জিনিয়ারিংয়ের একটি ধাপ।
+নিচের ধাপগুলা অনুসরণ করে মুলত কাজ করা হয়
+1/ Communication (যোগাযোগ)
+2/ Requirement Gathering (প্রয়োজনীয়তা সংগ্রহ)
+3/  Feasibility Study (সম্ভাব্যতা অধ্যয়ন)
+4/ System Analysis (ধারা বিশ্লেষণ)
+5/ Software Design (সফটওয়্যার ডিজাইন)
+6/ Coding (কোডিং)
+7/ Testing (পরীক্ষামূলক)
+8/ Integration (মিশ্রণ)
+9/ Implementation (বাস্তবায়ন)
+10/ Operations and maintenance (অপারেশন এবং রক্ষণাবেক্ষণ)
+11/ Disposition (স্বভাব)
