@@ -118,3 +118,11 @@ A software engineer is a person who designs, develops, maintains, tests, and App
 সফটওয়্যার ইঞ্জিনিয়ার কে ?
 
 সফটওয়্যার ইঞ্জিনিয়ার এমন ব্যক্তি যিনি কম্পিউটার সফ্টওয়্যারটির নকশা, বিকাশ, রক্ষণাবেক্ষণ, পরীক্ষা ও মূল্যায়নের ক্ষেত্রে সফটওয়্যার ইঞ্জিনিয়ারিংয়ের নীতিগুলি প্রয়োগ করেন।
+
+9/ Who is the software developer?
+
+A computer programmer, sometimes called a software developer, programmer, or more recently a coder, is a person who creates computer software.
+
+সফটওয়্যার  ডেভেলপার কে ?
+
+একজন কম্পিউটার প্রোগ্রামার, যাকে কখনও কখনও সফ্টওয়্যার ডেভেলপার, প্রোগ্রামার বা খুব সাম্প্রতিক সময়ে কোডার বলা হয়, এমন ব্যক্তি যিনি কম্পিউটার সফ্টওয়্যার তৈরি করেন।
