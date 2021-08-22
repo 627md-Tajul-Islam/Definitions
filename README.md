@@ -47,3 +47,12 @@ Software development is the process of designing, designing, programming, docume
 সফটওয়্যার ডেভেলপমেন্ট কি ?
 
 সফ্টওয়্যার ডেভেলপমেন্ট হল অ্যাপ্লিকেশন, ফ্রেমওয়ার্ক বা অন্যান্য সফ্টওয়্যার উপাদান তৈরি এবং রক্ষণাবেক্ষণের সাথে জড়িত, নির্দিষ্টকরণ, ডিজাইনিং, প্রোগ্রামিং, ডকুমেন্টিং, টেস্টিং এবং বাগ ফিক্সিংয়ের প্রক্রিয়া
+
+6/ What is SDLC (Software Development Lifecycle)?
+
+In System Engineering, Information Systems and Software Engineering, SDLC is also referred to as the Application Development Lifecycle, a process for planning, creating, testing and deploying a data system.
+
+SDLC(Software Development Lifecycle) কি ?
+
+সিস্টেম ইঞ্জিনিয়ারিং, ইনফরমেশন সিস্টেম এবং সফটওয়্যার ইঞ্জিনিয়ারিংয়ে SDLC কে অ্যাপ্লিকেশন ডেভলপমেন্ট জীবন-চক্র হিসাবেও চিহ্নিত করা হয়, এটি একটি ডেটা সিস্টেমের পরিকল্পনা, তৈরি, পরীক্ষা ও স্থাপনার জন্য একটি প্রক্রিয়া 
+
