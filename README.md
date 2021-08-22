@@ -110,3 +110,11 @@ SDLC(Software Development Lifecycle) এর ধাপ কি কি ?
 10/ Operations and maintenance (অপারেশন এবং রক্ষণাবেক্ষণ)
 
 11/ Disposition (স্বভাব)
+
+8/Who is a software engineer?
+
+A software engineer is a person who designs, develops, maintains, tests, and Applies the principles of software engineering in the field of evaluation.
+
+সফটওয়্যার ইঞ্জিনিয়ার কে ?
+
+সফটওয়্যার ইঞ্জিনিয়ার এমন ব্যক্তি যিনি কম্পিউটার সফ্টওয়্যারটির নকশা, বিকাশ, রক্ষণাবেক্ষণ, পরীক্ষা ও মূল্যায়নের ক্ষেত্রে সফটওয়্যার ইঞ্জিনিয়ারিংয়ের নীতিগুলি প্রয়োগ করেন।
