@@ -164,3 +164,12 @@ A web designer is someone who works for the layout design, visual aspect and usa
 ওয়েব ডিজাইনার কি ?
 
 ওয়েব ডিজাইনার হল এমন একজন যিনি কোনও ওয়েবসাইটের লেআউট ডিজাইন, চাক্ষুষ দিক এবং ব্যবহারযোগ্যতার জন্য কাজ করেন।একজন ভাল ওয়েব ডিজাইনারের সৃজনশীল গ্রাফিক দক্ষতা এবং প্রযুক্তিগত দক্ষতা উভয়ই থাকা প্রয়োজন
+
+14/ What is a web developer?
+
+A web developer is a programmer who specializes in developing World Wide Web (WWW) applications using the client-server model.
+
+ওয়েব ডেভেলপার কি ?
+
+ওয়েব ডেভেলপার এমন একটি প্রোগ্রামার যিনি ক্লায়েন্ট – সার্ভার মডেল ব্যবহার করে ওয়ার্ল্ড ওয়াইড ওয়েব(WWW)অ্যাপ্লিকেশনগুলির ডেভেলপ করার জন্য বিশেষত নিযুক্ত। 
+
