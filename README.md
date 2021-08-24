@@ -173,3 +173,10 @@ A web developer is a programmer who specializes in developing World Wide Web (WW
 
 ওয়েব ডেভেলপার এমন একটি প্রোগ্রামার যিনি ক্লায়েন্ট – সার্ভার মডেল ব্যবহার করে ওয়ার্ল্ড ওয়াইড ওয়েব(WWW)অ্যাপ্লিকেশনগুলির ডেভেলপ করার জন্য বিশেষত নিযুক্ত। 
 
+15/ What is a programmer?
+
+A computer programmer, sometimes called a software developer, programmer or very recent coder, is a person who creates computer software.The term computer programmer can refer to an expert in a particular field of computer or a multidisciplinary expert who writes code for a variety of software.
+
+প্রোগ্রামার কি ?
+
+একটি কম্পিউটার প্রোগ্রামার, যাকে কখনও কখনও সফ্টওয়্যার ডেভেলপার, প্রোগ্রামার বা খুব সাম্প্রতিক কোডার বলা হয়, এমন ব্যক্তি যিনি কম্পিউটার সফ্টওয়্যার তৈরি করেন।কম্পিউটার প্রোগ্রামার শব্দটি দ্বারা কম্পিউটারের একটি নির্দিষ্ট  ক্ষেত্রের বিশেষজ্ঞ বা এমন এক বহুবিদ্যাবিশরদ হিসাবে নির্দেশ করতে পারে যিনি বিভিন্ন ধরণের সফ্টওয়্যারগুলির জন্য কোড লেখেন।
