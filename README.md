@@ -156,3 +156,11 @@ Web development is the process of transforming a static web page or web site int
 ওয়েব ডেভেলপমেন্ট কি ?
 
 ওয়েব ডেভেলপমেন্ট মুলত একটি স্ট্যাটিক ওয়েব পেজ অথবা ওয়েব সাইট কে বেকেন্ড ডেভেলপ করার মাধ্যমে ডায়নামিক ওয়েব অ্যাপ্লিকেশনে রুপান্তর করা 
+
+13/ What is web designer?
+
+A web designer is someone who works for the layout design, visual aspect and usability of a website. A good web designer needs to have both creative graphic skills and technical skills.
+
+ওয়েব ডিজাইনার কি ?
+
+ওয়েব ডিজাইনার হল এমন একজন যিনি কোনও ওয়েবসাইটের লেআউট ডিজাইন, চাক্ষুষ দিক এবং ব্যবহারযোগ্যতার জন্য কাজ করেন।একজন ভাল ওয়েব ডিজাইনারের সৃজনশীল গ্রাফিক দক্ষতা এবং প্রযুক্তিগত দক্ষতা উভয়ই থাকা প্রয়োজন
