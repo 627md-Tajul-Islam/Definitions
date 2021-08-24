@@ -149,3 +149,10 @@ Web design is a process of building a website that focuses on how to make a webs
 
 ওয়েব ডিজাইন হল একটি ওয়েবসাইট তৈরির জন্য একটি প্রক্রিয়া যা মুলত কেন্দ্র করে যে একটি ওয়েবসাইট কে কিভাবে  আরো দৃষ্টি আকর্ষণীয়,সহজে ব্যবহারযোগ্য ,ভালো লে-আউট, ইউজার ইন্টারফেস এবং অন্যান্য চাক্ষুষ ব্যাপার গুলাকে কিভাবে নান্দনিক করা যায় 
 
+12/ What is web development?
+
+Web development is the process of transforming a static web page or web site into a dynamic web application by developing backend.
+
+ওয়েব ডেভেলপমেন্ট কি ?
+
+ওয়েব ডেভেলপমেন্ট মুলত একটি স্ট্যাটিক ওয়েব পেজ অথবা ওয়েব সাইট কে বেকেন্ড ডেভেলপ করার মাধ্যমে ডায়নামিক ওয়েব অ্যাপ্লিকেশনে রুপান্তর করা 
