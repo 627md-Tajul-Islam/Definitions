@@ -189,3 +189,10 @@ If someone can write some code that will compile and run and after giving the co
 
 If someone can write some code that will compile and run and after giving the correct input the code will ask for something
 
+17/ What is computer programming?
+
+Computer programming is the process of designing and building executable computer programs to perform a specific computing result and perform a specific task.
+
+কম্পিউটার প্রোগ্রামিং কি ?
+
+কম্পিউটার প্রোগ্রামিং হল এমন একটি প্রক্রিয়া যা একটি সুনির্দিষ্ট কম্পিউটিং ফলাফল সম্পাদন এবং একটি নির্দিষ্ট কার্য সম্পাদন করার জন্য এক্সিকিউটেবল কম্পিউটার প্রোগ্রাম ডিজাইন ও নির্মান করে
