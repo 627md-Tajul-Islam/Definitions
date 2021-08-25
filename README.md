@@ -222,3 +222,12 @@ Many students are able to code but almost not all are able to program.
 
 প্রোগ্রামিং একটি যুক্তি তৈরি করে যাকে আমরা মুলত লজিক বলি আর কোডিং সেই যুক্তিকে কোডিং এ রুপান্তর করে
 অনেক শিক্ষার্থী কোড করতে সক্ষম তবে প্রায় সবাই ই প্রোগ্রাম করতে সক্ষম হয় না। 
+
+21 / What is IDE?
+
+Integrated Development Environment (IDE) is a software application that allows a programmer to develop a wide range of other software.
+
+IDE কি ?
+
+Integrated Development Environment(IDE) হল একটি সফ্টওয়্যার অ্যাপ্লিকেশন যা একজন প্রোগ্রামারকে অন্যান্য সফটওয়্যার ডেভেলপ করার জন্য ব্যাপক সুবিধা প্রদান করে।
+
