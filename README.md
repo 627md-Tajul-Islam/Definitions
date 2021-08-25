@@ -281,3 +281,11 @@ That is, the compiler will do first and the interpreter later.
 কম্পাইলার আর ইন্টারপ্রেটার কি একই নাকি আলাদা ?
 
 কম্পাইলার এবং ইন্টারপ্রেটার উভয়ই একই কাজ করে যা উচ্চ স্তরের(High Level Programing Language)  প্রোগ্রামিং ভাষাটিকে মেশিন কোডে রূপান্তর করে।একটি কম্পাইলার প্রোগ্রাম চালানোর আগে কোডটিকে মেশিন কোডে রূপান্তর করবে (.exe ফাইল তৈরি করে)। প্রোগ্রামটি চালু হওয়ার পরে ইন্টারপ্রেটার কোডটিকে মেশিন কোডে রূপান্তর করেন।অর্থাৎ কম্পাইলার আগে করবে এবং ইন্টারপ্রেটার পরে।
+
+28 / What is a website?
+
+A website is a collection of information on multiple web pages and a specific content that is registered under a common domain name and published on at least one web server.
+
+ওয়েবসাইট কি ?
+
+ওয়েবসাইট হল একাধিক ওয়েব পেজ এবং কোন একটি নির্দিষ্ট বিষয়বস্তুর উপর তথ্যর সংগ্রহ যা একটি সাধারণ ডোমেনের নাম দ্বারা রেজিস্টার করা হয় এবং কমপক্ষে একটি ওয়েব সার্ভারে পাব্লিশ হয়।
