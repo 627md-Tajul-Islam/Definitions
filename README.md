@@ -238,3 +238,11 @@ A source-code editor is a text editor program designed specifically to edit or m
 22/কোড এডিটর কি ?
 
 সোর্স-কোড এডিটর হল একটি টেক্সট এডিটর প্রোগ্রাম যা কম্পিউটার প্রোগ্রামগুলির সোর্স কোড এডিট বা পরিবর্তন করার জন্য বিশেষভাবে ডিজাইন করা হয়
+
+23 / What is a programming language?
+
+A programming language is a medium used by programmers to communicate with computers. It is a set of instructions written in a specific language to perform a specific task.
+
+23/প্রোগ্রামিং ল্যাঙ্গুয়েজ কি ?
+
+প্রোগ্রামিং ল্যাঙ্গুয়েজ এমন একটি মাধ্যম যা কম্পিউটারের সাথে যোগাযোগের জন্য প্রোগ্রামার দ্বারা ব্যবহৃত হয়। নির্দিষ্ট কাজ সম্পাদনের জন্য এটি কোনও নির্দিষ্ট ভাষায়(ল্যাঙ্গুয়েজ) লেখা নির্দেশের একটি সেট।
