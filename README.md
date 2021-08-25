@@ -289,3 +289,11 @@ A website is a collection of information on multiple web pages and a specific co
 ওয়েবসাইট কি ?
 
 ওয়েবসাইট হল একাধিক ওয়েব পেজ এবং কোন একটি নির্দিষ্ট বিষয়বস্তুর উপর তথ্যর সংগ্রহ যা একটি সাধারণ ডোমেনের নাম দ্বারা রেজিস্টার করা হয় এবং কমপক্ষে একটি ওয়েব সার্ভারে পাব্লিশ হয়।
+
+29/ What is a webpage?
+
+A webpage is a hypertext document that provides a website and is displayed to the user in a web browser. A website is usually made up of many webpages linked together.
+
+ওয়েবপেজ কি ?
+
+ওয়েবপেজ হল একটি হাইপারটেক্সট ডকুমেন্ট যা কোনও একটি ওয়েবসাইট সরবরাহ করে এবং ওয়েব ব্রাউজারে  ব্যবহারকারীকে প্রদর্শিত হয়।ওয়েবসাইট সাধারণত একসাথে লিঙ্কযুক্ত অনেকগুলি ওয়েবপেজ নিয়ে গঠিত হয়
