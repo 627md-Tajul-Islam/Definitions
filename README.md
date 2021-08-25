@@ -257,3 +257,10 @@ Development Environment কি ?
 এটি হল সফটওয়্যার এবং ওয়েব ডেভেলপমেন্ট এর জন্য একটি ডেভেলপমেন্ট পরিবেশ যেটি ডেভেলপারদের এমন একটি কাজ করার স্থান দেই  যেখানে একটি লাইভ পরিবেশে
 কিছু না ভঙ্গ(আউটপুট) করে পরিবর্তন করা সম্বভ
 
+25 / What is a compiler?
+
+A translator / compiler is a computer program that translates code written in a programming language into machine language so that the computer can understand the code.
+
+কম্পাইলার কি ?
+
+অনুবাদক/কম্পাইলার একটি কম্পিউটার প্রোগ্রাম যা একটি প্রোগ্রামিং ভাষায় লিখিত কোডটিকে মেশিন ল্যাঙ্গুয়েজে অনুবাদ করে যাতে কোডটি কম্পিউটার বুঝতে পারে।
