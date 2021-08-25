@@ -297,3 +297,11 @@ A webpage is a hypertext document that provides a website and is displayed to th
 ওয়েবপেজ কি ?
 
 ওয়েবপেজ হল একটি হাইপারটেক্সট ডকুমেন্ট যা কোনও একটি ওয়েবসাইট সরবরাহ করে এবং ওয়েব ব্রাউজারে  ব্যবহারকারীকে প্রদর্শিত হয়।ওয়েবসাইট সাধারণত একসাথে লিঙ্কযুক্ত অনেকগুলি ওয়েবপেজ নিয়ে গঠিত হয়
+
+30/What is a web application?
+
+A web application is an application software that runs on a web server, computer-based software that runs locally on the device's operating system. Web applications with an active network connection can be accessed by the user through a web browser
+
+ওয়েব আপ্লিকেশন কি ?
+
+ওয়েব অ্যাপ্লিকেশন হল একটি  অ্যাপ্লিকেশন সফ্টওয়্যার যা কোনও ওয়েব-সার্ভারে চলমান থাকে, কম্পিউটার-ভিত্তিক সফ্টওয়্যার গুলা ডিভাইসের অপারেটিং সিস্টেমে স্থানীয়ভাবে চালিত হয়। একটি সক্রিয় নেটওয়ার্ক সংযোগ সহ ওয়েব অ্যাপ্লিকেশনগুলি ওয়েব ব্রাউজারের মাধ্যমে ব্যবহারকারী ব্যাবহার করতে পারে
