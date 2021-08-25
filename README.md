@@ -204,3 +204,11 @@ A developer is a person who creates software and applications. He writes the cod
 ডেভেলপার কি ?
 
 ডেভেলপার এমন একজন ব্যক্তি যিনি সফ্টওয়্যার এবং অ্যাপ্লিকেশন তৈরি করেন। তিনি কোড লিখেন,কোড ডিবাগ করেন,এবং কোডটি কার্যকর করেন। একজন ডেভেলপার একজন সফটওয়্যার ডেভেলপার, কম্পিউটার প্রোগ্রামার, প্রোগ্রামার, সফ্টওয়্যার কোডার বা সফটওয়্যার ইঞ্জিনিয়ার হিসাবেও পরিচিত।
+
+19/ What is a computer program?
+
+A computer program is a collection of instructions that can be performed by a computer to perform a specific task. A computer program is usually written by a computer programmer in a programming language
+
+কম্পিউটার প্রোগ্রাম কি ?
+
+একটি কম্পিউটার প্রোগ্রাম হ'ল নির্দেশাবলীর একটি সংগ্রহ যা একটি নির্দিষ্ট কাজ সম্পাদন করার জন্য একটি কম্পিউটার দ্বারা সম্পাদন করা যেতে পারে। একটি কম্পিউটার প্রোগ্রাম সাধারণত কম্পিউটার প্রোগ্রামার দ্বারা প্রোগ্রামিং ভাষায় লেখা হয়
