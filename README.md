@@ -264,3 +264,11 @@ A translator / compiler is a computer program that translates code written in a 
 কম্পাইলার কি ?
 
 অনুবাদক/কম্পাইলার একটি কম্পিউটার প্রোগ্রাম যা একটি প্রোগ্রামিং ভাষায় লিখিত কোডটিকে মেশিন ল্যাঙ্গুয়েজে অনুবাদ করে যাতে কোডটি কম্পিউটার বুঝতে পারে।
+
+26 / What is an interpreter?
+
+It is basically a translator that repeatedly reads the code and translates it into machine code. It executes instructions written in a programming or scripting language.
+
+ইন্টারপ্রেটার কি ?
+
+এটি মূলত একটি অনুবাদক যা বারবার কোড পড়ে এবং তাদের  মেশিন কোডে অনুবাদ করে।এটি প্রোগ্রামিং বা স্ক্রিপ্টিং ল্যাঙ্গুয়েজএ লিখিত নির্দেশাবলী কার্যকর করে।
