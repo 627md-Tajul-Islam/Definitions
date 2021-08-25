@@ -180,3 +180,12 @@ A computer programmer, sometimes called a software developer, programmer or very
 প্রোগ্রামার কি ?
 
 একটি কম্পিউটার প্রোগ্রামার, যাকে কখনও কখনও সফ্টওয়্যার ডেভেলপার, প্রোগ্রামার বা খুব সাম্প্রতিক কোডার বলা হয়, এমন ব্যক্তি যিনি কম্পিউটার সফ্টওয়্যার তৈরি করেন।কম্পিউটার প্রোগ্রামার শব্দটি দ্বারা কম্পিউটারের একটি নির্দিষ্ট  ক্ষেত্রের বিশেষজ্ঞ বা এমন এক বহুবিদ্যাবিশরদ হিসাবে নির্দেশ করতে পারে যিনি বিভিন্ন ধরণের সফ্টওয়্যারগুলির জন্য কোড লেখেন।
+
+16/ Who is a coder?
+
+If someone can write some code that will compile and run and after giving the correct input the code will ask for something
+
+কোডার কি ?
+
+If someone can write some code that will compile and run and after giving the correct input the code will ask for something
+
