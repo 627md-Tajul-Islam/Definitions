@@ -246,3 +246,14 @@ A programming language is a medium used by programmers to communicate with compu
 23/প্রোগ্রামিং ল্যাঙ্গুয়েজ কি ?
 
 প্রোগ্রামিং ল্যাঙ্গুয়েজ এমন একটি মাধ্যম যা কম্পিউটারের সাথে যোগাযোগের জন্য প্রোগ্রামার দ্বারা ব্যবহৃত হয়। নির্দিষ্ট কাজ সম্পাদনের জন্য এটি কোনও নির্দিষ্ট ভাষায়(ল্যাঙ্গুয়েজ) লেখা নির্দেশের একটি সেট।
+
+24 / What is Development Environment?
+
+It is a development environment for software and web development that gives developers a place to work in a live environment.
+It is possible to change something by breaking (output)
+
+Development Environment কি ?
+
+এটি হল সফটওয়্যার এবং ওয়েব ডেভেলপমেন্ট এর জন্য একটি ডেভেলপমেন্ট পরিবেশ যেটি ডেভেলপারদের এমন একটি কাজ করার স্থান দেই  যেখানে একটি লাইভ পরিবেশে
+কিছু না ভঙ্গ(আউটপুট) করে পরিবর্তন করা সম্বভ
+
