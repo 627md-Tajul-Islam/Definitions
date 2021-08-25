@@ -212,3 +212,13 @@ A computer program is a collection of instructions that can be performed by a co
 কম্পিউটার প্রোগ্রাম কি ?
 
 একটি কম্পিউটার প্রোগ্রাম হ'ল নির্দেশাবলীর একটি সংগ্রহ যা একটি নির্দিষ্ট কাজ সম্পাদন করার জন্য একটি কম্পিউটার দ্বারা সম্পাদন করা যেতে পারে। একটি কম্পিউটার প্রোগ্রাম সাধারণত কম্পিউটার প্রোগ্রামার দ্বারা প্রোগ্রামিং ভাষায় লেখা হয়
+
+20/What is the difference between programming and coding?
+
+Programming creates an argument which we basically call logic and coding converts that argument into coding.
+Many students are able to code but almost not all are able to program.
+
+প্রোগ্রামিং এবং কোডিং এর মধ্যে পার্থক্য কি ?
+
+প্রোগ্রামিং একটি যুক্তি তৈরি করে যাকে আমরা মুলত লজিক বলি আর কোডিং সেই যুক্তিকে কোডিং এ রুপান্তর করে
+অনেক শিক্ষার্থী কোড করতে সক্ষম তবে প্রায় সবাই ই প্রোগ্রাম করতে সক্ষম হয় না। 
