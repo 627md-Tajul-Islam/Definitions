@@ -272,3 +272,12 @@ It is basically a translator that repeatedly reads the code and translates it in
 ইন্টারপ্রেটার কি ?
 
 এটি মূলত একটি অনুবাদক যা বারবার কোড পড়ে এবং তাদের  মেশিন কোডে অনুবাদ করে।এটি প্রোগ্রামিং বা স্ক্রিপ্টিং ল্যাঙ্গুয়েজএ লিখিত নির্দেশাবলী কার্যকর করে।
+
+27/ Is the compiler and interpreter the same or different?
+
+Both the compiler and the interpreter do the same thing by converting the High Level Programming Language into machine code.The compiler will convert the code to machine code before running the program (creating .exe files). After the program starts, the interpreter converts the code into machine code.
+That is, the compiler will do first and the interpreter later.
+
+কম্পাইলার আর ইন্টারপ্রেটার কি একই নাকি আলাদা ?
+
+কম্পাইলার এবং ইন্টারপ্রেটার উভয়ই একই কাজ করে যা উচ্চ স্তরের(High Level Programing Language)  প্রোগ্রামিং ভাষাটিকে মেশিন কোডে রূপান্তর করে।একটি কম্পাইলার প্রোগ্রাম চালানোর আগে কোডটিকে মেশিন কোডে রূপান্তর করবে (.exe ফাইল তৈরি করে)। প্রোগ্রামটি চালু হওয়ার পরে ইন্টারপ্রেটার কোডটিকে মেশিন কোডে রূপান্তর করেন।অর্থাৎ কম্পাইলার আগে করবে এবং ইন্টারপ্রেটার পরে।
