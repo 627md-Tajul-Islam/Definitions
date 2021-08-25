@@ -308,4 +308,8 @@ A web application is an application software that runs on a web server, computer
 
 31/ What is a terminal?
 
+A terminal is an electronic or electromechanical hardware device used to input, display, and copy data from a computer or a computing system.
+
 টারমিনাল কি ?
+
+টার্মিনাল হল একটি ইলেক্ট্রনিক বা ইলেক্ট্রোমেকানিকাল হার্ডওয়্যার ডিভাইস যা একটি কম্পিউটার বা একটি কম্পিউটিং সিস্টেম থেকে ডেটা ইনপুট করতে,তথ্য প্রদর্শন এবং ডেটা প্রতিলিপি করতে ব্যবহৃত হয়।
