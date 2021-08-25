@@ -196,3 +196,11 @@ Computer programming is the process of designing and building executable compute
 কম্পিউটার প্রোগ্রামিং কি ?
 
 কম্পিউটার প্রোগ্রামিং হল এমন একটি প্রক্রিয়া যা একটি সুনির্দিষ্ট কম্পিউটিং ফলাফল সম্পাদন এবং একটি নির্দিষ্ট কার্য সম্পাদন করার জন্য এক্সিকিউটেবল কম্পিউটার প্রোগ্রাম ডিজাইন ও নির্মান করে
+
+18/ Who is a developer?
+
+A developer is a person who creates software and applications. He writes the code, debugs the code, and executes the code. A developer is also known as a software developer, computer programmer, programmer, software coder or software engineer.
+
+ডেভেলপার কি ?
+
+ডেভেলপার এমন একজন ব্যক্তি যিনি সফ্টওয়্যার এবং অ্যাপ্লিকেশন তৈরি করেন। তিনি কোড লিখেন,কোড ডিবাগ করেন,এবং কোডটি কার্যকর করেন। একজন ডেভেলপার একজন সফটওয়্যার ডেভেলপার, কম্পিউটার প্রোগ্রামার, প্রোগ্রামার, সফ্টওয়্যার কোডার বা সফটওয়্যার ইঞ্জিনিয়ার হিসাবেও পরিচিত।
