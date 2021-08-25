@@ -231,3 +231,10 @@ IDE কি ?
 
 Integrated Development Environment(IDE) হল একটি সফ্টওয়্যার অ্যাপ্লিকেশন যা একজন প্রোগ্রামারকে অন্যান্য সফটওয়্যার ডেভেলপ করার জন্য ব্যাপক সুবিধা প্রদান করে।
 
+22 / What is a code editor?
+
+A source-code editor is a text editor program designed specifically to edit or modify the source code of computer programs.
+
+22/কোড এডিটর কি ?
+
+সোর্স-কোড এডিটর হল একটি টেক্সট এডিটর প্রোগ্রাম যা কম্পিউটার প্রোগ্রামগুলির সোর্স কোড এডিট বা পরিবর্তন করার জন্য বিশেষভাবে ডিজাইন করা হয়
