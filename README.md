@@ -318,3 +318,6 @@ A terminal is an electronic or electromechanical hardware device used to input, 
 
 A command prompt is the input field in a text-based user interface screen for an operating system or program. 
 
+কমান্ড প্রম্পট কি?
+
+কমান্ড প্রম্পট হল অপারেটিং সিস্টেম বা প্রোগ্রামের জন্য একটি টেক্সট-ভিত্তিক ইউজার ইন্টারফেস স্ক্রিনের ইনপুট নেয়ার একটি ক্ষেত্র।
