@@ -334,3 +334,4 @@ A single-page application is a web application or website that interacts with th
 
 A Multi-page Application is a web application consisting of a large number of pages completely refreshed every time when data changes on them. Any data change or data transfer to the server leads to a new page displayed in the browser.
 
+মাল্টি-পেজ এপ্লিকেশন কি?
