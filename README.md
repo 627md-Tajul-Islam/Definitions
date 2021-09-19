@@ -323,3 +323,5 @@ A command prompt is the input field in a text-based user interface screen for an
 কমান্ড প্রম্পট হল অপারেটিং সিস্টেম বা প্রোগ্রামের জন্য একটি টেক্সট-ভিত্তিক ইউজার ইন্টারফেস স্ক্রিনের ইনপুট নেয়ার একটি ক্ষেত্র।
 
 33/ what is a single page application ?
+
+A single-page application is a web application or website that interacts with the user by dynamically rewriting the current web page with new data from the webserver, instead of the default method of a web browser loading entire new pages.
