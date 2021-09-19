@@ -351,3 +351,5 @@ A static website uses server-side rendering to serve pre-built HTML, CSS, and Ja
 A dynamic web page is a web page that displays different content each time it's viewed.
 
 একটি ডাইনামিক ওয়েবসাইট কি?
+
+একটি ডাইনামিক ওয়েব পেজ হল একটি ওয়েব পেজ যা প্রতিবার দেখার সময় বিভিন্ন বিষয়বস্তু প্রদর্শন করে।
