@@ -345,3 +345,5 @@ A static website uses server-side rendering to serve pre-built HTML, CSS, and Ja
 একটি স্ট্যাটিক ওয়েবসাইট কি?
 
 একটি স্ট্যাটিক ওয়েবসাইট একটি ওয়েব ব্রাউজারে প্রাক-নির্মিত HTML, CSS এবং জাভাস্ক্রিপ্ট ফাইল পরিবেশন করার জন্য সার্ভার-সাইড রেন্ডারিং ব্যবহার করে
+
+36/ what is a dynamic website ?
