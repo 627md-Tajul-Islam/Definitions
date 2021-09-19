@@ -339,3 +339,5 @@ A Multi-page Application is a web application consisting of a large number of pa
 একটি মাল্টি-পেজ অ্যাপ্লিকেশন হল একটি ওয়েব অ্যাপ্লিকেশন যার মধ্যে প্রচুর পরিমাণে পৃষ্ঠা থাকে যখন প্রতিবার ডেটা পরিবর্তিত হয়। সার্ভারে ডেটা পরিবর্তন বা ডেটা স্থানান্তর ব্রাউজারে প্রদর্শিত একটি নতুন পৃষ্ঠার দিকে পরিচালিত করে।
 
 35/ what is a static website?
+
+A static website uses server-side rendering to serve pre-built HTML, CSS, and JavaScript files to a web browser
