@@ -325,3 +325,6 @@ A command prompt is the input field in a text-based user interface screen for an
 33/ what is a single page application ?
 
 A single-page application is a web application or website that interacts with the user by dynamically rewriting the current web page with new data from the webserver, instead of the default method of a web browser loading entire new pages.
+
+সিঙ্গেল পেজ এপ্লিকেশন কি?
+
