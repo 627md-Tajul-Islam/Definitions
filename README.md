@@ -343,3 +343,5 @@ A Multi-page Application is a web application consisting of a large number of pa
 A static website uses server-side rendering to serve pre-built HTML, CSS, and JavaScript files to a web browser
 
 একটি স্ট্যাটিক ওয়েবসাইট কি?
+
+একটি স্ট্যাটিক ওয়েবসাইট একটি ওয়েব ব্রাউজারে প্রাক-নির্মিত HTML, CSS এবং জাভাস্ক্রিপ্ট ফাইল পরিবেশন করার জন্য সার্ভার-সাইড রেন্ডারিং ব্যবহার করে
