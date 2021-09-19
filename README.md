@@ -341,3 +341,5 @@ A Multi-page Application is a web application consisting of a large number of pa
 35/ what is a static website?
 
 A static website uses server-side rendering to serve pre-built HTML, CSS, and JavaScript files to a web browser
+
+একটি স্ট্যাটিক ওয়েবসাইট কি?
