@@ -331,3 +331,6 @@ A single-page application is a web application or website that interacts with th
 একটি একক পৃষ্ঠার অ্যাপ্লিকেশন হল একটি ওয়েব অ্যাপ্লিকেশন বা ওয়েবসাইট যা ব্যবহারকারীর সাথে ইন্টারঅ্যাক্ট করে গতিশীলভাবে ওয়েব সার্ভার থেকে নতুন ডেটা দিয়ে নতুন ওয়েব পৃষ্ঠা ব্রাউজারের ডিফল্ট পদ্ধতির পরিবর্তে সম্পূর্ণ নতুন পৃষ্ঠা লোড করে।
 
 34/ what is multi page application ?
+
+A Multi-page Application is a web application consisting of a large number of pages completely refreshed every time when data changes on them. Any data change or data transfer to the server leads to a new page displayed in the browser.
+
