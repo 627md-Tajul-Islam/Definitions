@@ -374,5 +374,6 @@ the server is a piece of computer hardware or software that provides functionali
 
 A cross-platform computer product or system is a product or system that can work across multiple types of platforms or operating environments.
 
+ক্রস প্ল্যাটফর্ম কি ?
 
 একটি ক্রস-প্ল্যাটফর্ম কম্পিউটার পণ্য বা সিস্টেম এমন একটি পণ্য বা সিস্টেম যা একাধিক ধরণের প্ল্যাটফর্ম বা অপারেটিং পরিবেশে কাজ করতে পারে।
