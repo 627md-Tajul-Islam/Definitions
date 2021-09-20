@@ -357,3 +357,6 @@ A dynamic web page is a web page that displays different content each time it's 
 37/ what is a database?
 
 A database is an organized collection of data stored and accessed electronically from a computer system. Where databases are more complex they are often developed using formal design and modeling techniques.
+
+ডাটাবেজ কি ?
+
