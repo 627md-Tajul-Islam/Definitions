@@ -365,3 +365,5 @@ A database is an organized collection of data stored and accessed electronically
 38/ what is a server?
 
 the server is a piece of computer hardware or software that provides functionality for other programs or devices, called "clients". This architecture is called the client-server model.
+
+ সার্ভার কি?
