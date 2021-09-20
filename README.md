@@ -384,3 +384,4 @@ A framework is a set structure in which tasks are performed or completed.
 
 ফ্রেমওয়ার্ক কি ?
 
+একটি ফ্রেমওয়ার্ক হল একটি সেট কাঠামো যেখানে অনেক কাজ আগে থেকে সম্পাদন করা থাকে বা সম্পন্ন করা হয়।
