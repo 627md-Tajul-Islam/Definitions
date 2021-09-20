@@ -361,3 +361,7 @@ A database is an organized collection of data stored and accessed electronically
 ডাটাবেজ কি ?
 
 একটি ডাটাবেস হল একটি কম্পিউটার সিস্টেম থেকে ইলেক্ট্রনিকভাবে সংরক্ষিত এবং অ্যাক্সেস করা ডেটার একটি সংগঠিত সংগ্রহ। যেখানে ডেটাবেসগুলি আরও জটিল সেগুলি প্রায়শই আনুষ্ঠানিক নকশা এবং মডেলিং কৌশল ব্যবহার করে বিকশিত হয়।
+
+38/ what is a server?
+
+the server is a piece of computer hardware or software that provides functionality for other programs or devices, called "clients". This architecture is called the client-server model.
