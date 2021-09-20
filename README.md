@@ -381,3 +381,6 @@ A cross-platform computer product or system is a product or system that can work
 40/ What is framework ?
 
 A framework is a set structure in which tasks are performed or completed.
+
+ফ্রেমওয়ার্ক কি ?
+
