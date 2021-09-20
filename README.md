@@ -377,3 +377,5 @@ A cross-platform computer product or system is a product or system that can work
 ক্রস প্ল্যাটফর্ম কি ?
 
 একটি ক্রস-প্ল্যাটফর্ম কম্পিউটার পণ্য বা সিস্টেম এমন একটি পণ্য বা সিস্টেম যা একাধিক ধরণের প্ল্যাটফর্ম বা অপারেটিং পরিবেশে কাজ করতে পারে।
+
+40/ What is framework ?
