@@ -372,5 +372,5 @@ the server is a piece of computer hardware or software that provides functionali
 
 39/ what is a cross platform ?
 
-
+A cross-platform computer product or system is a product or system that can work across multiple types of platforms or operating environments.
 
