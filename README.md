@@ -369,3 +369,8 @@ the server is a piece of computer hardware or software that provides functionali
  সার্ভার কি?
 
  সার্ভার হল কম্পিউটার হার্ডওয়্যার বা সফটওয়্যারের একটি অংশ যা অন্যান্য প্রোগ্রাম বা ডিভাইসের কার্যকারিতা প্রদান করে, যাকে "ক্লায়েন্ট" বলা হয়। এই স্থাপত্যকে বলা হয় ক্লায়েন্ট-সার্ভার মডেল।
+
+39/ what is a cross platform ?
+
+
+
