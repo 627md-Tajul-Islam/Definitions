@@ -392,3 +392,4 @@ A library refers to a collection of files, programs, routines, scripts, or funct
 
 লাইব্রেরি কি?
 
+লাইব্রেরি বলতে বোঝায় ফাইল, প্রোগ্রাম, রুটিন, স্ক্রিপ্ট বা ফাংশন যা প্রোগ্রামিং কোডে উল্লেখ করা যেতে পারে।
