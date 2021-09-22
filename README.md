@@ -389,3 +389,6 @@ A framework is a set structure in which tasks are performed or completed.
 41/ What is a library ?
 
 A library refers to a collection of files, programs, routines, scripts, or functions that can be referenced in the programming code.
+
+লাইব্রেরি কি?
+
