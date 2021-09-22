@@ -387,3 +387,5 @@ A framework is a set structure in which tasks are performed or completed.
 একটি ফ্রেমওয়ার্ক হল একটি সেট কাঠামো যেখানে অনেক কাজ আগে থেকে সম্পাদন করা থাকে বা সম্পন্ন করা হয়।
 
 41/ What is a library ?
+
+A library refers to a collection of files, programs, routines, scripts, or functions that can be referenced in the programming code.
