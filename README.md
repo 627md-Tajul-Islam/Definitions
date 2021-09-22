@@ -397,3 +397,6 @@ A library refers to a collection of files, programs, routines, scripts, or funct
 42/ What is shell ?
 
 shell is a computer program that exposes an operating system's services to a human user or another program.
+
+শেল কি?
+
