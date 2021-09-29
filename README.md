@@ -411,3 +411,5 @@ PowerShell is a task automation and configuration management program from Micros
 পাওয়ারশেল হল মাইক্রোসফটের একটি টাস্ক অটোমেশন এবং কনফিগারেশন ম্যানেজমেন্ট প্রোগ্রাম, যা একটি কমান্ড-লাইন শেল এবং সংশ্লিষ্ট স্ক্রিপ্টিং ভাষা নিয়ে গঠিত।
 
 44/ what is frontend ?
+
+ফ্রন্টএন্ড কি?
