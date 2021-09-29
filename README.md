@@ -404,4 +404,6 @@ shell is a computer program that exposes an operating system's services to a hum
 
 43/ what is powershell ?
 
+PowerShell is a task automation and configuration management program from Microsoft, consisting of a command-line shell and the associated scripting language
+
 পাওয়ার-শেল কি
