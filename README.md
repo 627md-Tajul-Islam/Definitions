@@ -402,3 +402,4 @@ shell is a computer program that exposes an operating system's services to a hum
 
 শেল হল একটি কম্পিউটার প্রোগ্রাম যা একটি অপারেটিং সিস্টেমের সেবাকে একজন মানব ব্যবহারকারী বা অন্য কোন প্রোগ্রামে প্রকাশ করে।
 
+43/ what is powershell ?
