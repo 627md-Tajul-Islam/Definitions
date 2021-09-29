@@ -423,3 +423,5 @@ Front-end web development is the development of the graphical user interface of 
 The back end refers to parts of a computer application or a program's code that allow it to operate and that cannot be accessed by a user. ... The back end is also called the data access layer of software or hardware and includes any functionality that needs to be accessed and navigated to by digital means.
 
 ব্যাকএন্ড কি ?
+
+ব্যাকএন্ড একটি কম্পিউটার অ্যাপ্লিকেশন বা প্রোগ্রামের কোডের অংশগুলিকে বোঝায় যা এটি পরিচালনা করতে দেয় এবং এটি ব্যবহারকারীর দ্বারা অ্যাক্সেস করা যায় না। ব্যাকএন্ড কো সফটওয়্যার বা হার্ডওয়্যারের ডেটা অ্যাক্সেস স্তরও বলা হয় এবং ডিজিটাল মাধ্যমে অ্যাক্সেস এবং নেভিগেট করার জন্য যে কোনও কার্যকারিতা অন্তর্ভুক্ত করে।
