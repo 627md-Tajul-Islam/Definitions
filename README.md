@@ -415,3 +415,5 @@ PowerShell is a task automation and configuration management program from Micros
 Front-end web development is the development of the graphical user interface of a website, through the use of HTML, CSS, and JavaScript, so that users can view and interact with that website
 
 ফ্রন্টএন্ড কি?
+
+ফ্রন্ট-এন্ড ওয়েব ডেভেলপমেন্ট হল একটি ওয়েবসাইটের গ্রাফিক্যাল ইউজার ইন্টারফেসের ডেভেলপমেন্ট, এইচটিএমএল, সিএসএস এবং জাভাস্ক্রিপ্ট ব্যবহারের মাধ্যমে, যাতে ব্যবহারকারীরা সেই ওয়েবসাইটটি দেখতে এবং তার সাথে যোগাযোগ করতে পারে
