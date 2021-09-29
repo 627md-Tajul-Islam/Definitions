@@ -420,4 +420,6 @@ Front-end web development is the development of the graphical user interface of 
 
 45/ what is backend ?
 
+The back end refers to parts of a computer application or a program's code that allow it to operate and that cannot be accessed by a user. ... The back end is also called the data access layer of software or hardware and includes any functionality that needs to be accessed and navigated to by digital means.
+
 ব্যাকএন্ড কি ?
