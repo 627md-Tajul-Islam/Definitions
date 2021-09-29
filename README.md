@@ -407,3 +407,5 @@ shell is a computer program that exposes an operating system's services to a hum
 PowerShell is a task automation and configuration management program from Microsoft, consisting of a command-line shell and the associated scripting language
 
 পাওয়ার-শেল কি
+
+পাওয়ারশেল হল মাইক্রোসফটের একটি টাস্ক অটোমেশন এবং কনফিগারেশন ম্যানেজমেন্ট প্রোগ্রাম, যা একটি কমান্ড-লাইন শেল এবং সংশ্লিষ্ট স্ক্রিপ্টিং ভাষা নিয়ে গঠিত।
