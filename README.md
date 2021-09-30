@@ -431,3 +431,5 @@ The back end refers to parts of a computer application or a program's code that 
 Program documentation is the process of saving written details of various steps of a program plan.
 
 প্রোগ্রাম ডকুমেন্টেশন বলতে কি বোঝায় ? 
+
+প্রোগ্রাম পরিকল্পনার বিভিন্ন ধাপ সমুহের লিখিত বিবরন ডকুমেন্ট আকারে সংরক্ষন করাকে প্রোগ্রাম ডকুমেন্টেশন বলে 
