@@ -444,4 +444,6 @@ It refers to the development of both front end(client side) and back end(server 
 
 48/ What is Jamstack?
 
+Jamstack is an architecture designed to make the web faster, more secure, and easier to scale. It builds on many of the tools and workflows which developers love, and which bring maximum productivity.
+
 জ্যামস্ট্যাক কি?
