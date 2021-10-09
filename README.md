@@ -433,3 +433,5 @@ Program documentation is the process of saving written details of various steps 
 প্রোগ্রাম ডকুমেন্টেশন বলতে কি বোঝায় ? 
 
 প্রোগ্রাম পরিকল্পনার বিভিন্ন ধাপ সমুহের লিখিত বিবরন ডকুমেন্ট আকারে সংরক্ষন করাকে প্রোগ্রাম ডকুমেন্টেশন বলে 
+
+47/ What is full-stack development ?
