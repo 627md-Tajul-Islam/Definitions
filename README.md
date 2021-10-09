@@ -438,4 +438,6 @@ Program documentation is the process of saving written details of various steps 
 
 It refers to the development of both front end(client side) and back end(server side) portions of web application. And the frontend, backend, database and debugging of web application or websites
 
-ফুল স্ট্যাক ডেভেলপমেন্ট কি
+ফুল স্ট্যাক ডেভেলপমেন্ট কি ?
+
+এটি ওয়েব অ্যাপ্লিকেশনের ফ্রন্ট এন্ড (ক্লায়েন্ট সাইড) এবং ব্যাক এন্ড (সার্ভার সাইড) উভয় অংশের উন্নয়নকে নির্দেশ করে। এবং ওয়েব অ্যাপ্লিকেশন বা ওয়েবসাইটগুলির ফ্রন্টএন্ড, ব্যাকএন্ড, ডাটাবেস এবং ডিবাগিং
