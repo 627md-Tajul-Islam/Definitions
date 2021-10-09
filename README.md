@@ -487,3 +487,5 @@ Extensions are small software programs that customize the browsing experience.
 A computer file is a computer resource for recording data in a computer storage device.
 
 ফাইল কি?
+
+একটি কম্পিউটার ফাইল একটি কম্পিউটার স্টোরেজ ডিভাইসে ডেটা রেকর্ড করার জন্য একটি কম্পিউটার রিসোর্স।
