@@ -473,3 +473,4 @@ Bash is the shell, or command language interpreter, for the GNU operating system
 ব্যাশ কি ?
 
 ব্যাশ হল GNU অপারেটিং সিস্টেমের শেল বা কমান্ড ল্যাঙ্গুয়েজ ইন্টারপ্রেটার।
+
