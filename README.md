@@ -481,3 +481,5 @@ Extensions are small software programs that customize the browsing experience.
 এক্সটেনশন কি ?
 
 এক্সটেনশন হল ছোট সফটওয়্যার প্রোগ্রাম যা ব্রাউজিং অভিজ্ঞতাকে কাস্টমাইজ করে।
+
+53/ what is file ?
