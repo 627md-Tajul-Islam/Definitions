@@ -492,6 +492,8 @@ A computer file is a computer resource for recording data in a computer storage 
 
 54/ what is folder?
 
+a directory is a file system cataloging structure which contains references to other computer files, and possibly other directories
+
 ফোল্ডার কি?
 
 একটি ডিরেক্টরি হল একটি ফাইল সিস্টেম ক্যাটালগিং কাঠামো যা অন্যান্য কম্পিউটার ফাইলের রেফারেন্স এবং সম্ভবত অন্যান্য ডিরেক্টরি ধারণ করে
