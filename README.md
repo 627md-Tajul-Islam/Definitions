@@ -436,4 +436,6 @@ Program documentation is the process of saving written details of various steps 
 
 47/ What is full-stack development ?
 
+It refers to the development of both front end(client side) and back end(server side) portions of web application. And the frontend, backend, database and debugging of web application or websites
+
 ফুল স্ট্যাক ডেভেলপমেন্ট কি
