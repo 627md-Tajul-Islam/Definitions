@@ -467,3 +467,5 @@ Runtime is a general term that refers to any library, framework, or platform tha
 রানটাইম একটি সাধারণ শব্দ যা আপনার লাইব্রেরি, কাঠামো বা প্ল্যাটফর্মকে বোঝায় যা আপনার কোড রান করে 
 
 51/ What is Bash?
+
+ব্যাশ কি ?
