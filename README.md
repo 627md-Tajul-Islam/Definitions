@@ -460,6 +460,8 @@ A boilerplate is a unit of writing that can be reused over and over without chan
 
 50/ What is runtime?
 
+Runtime is a general term that refers to any library, framework, or platform that your code runs on.
+
 রানটাইম কি?
 
 রানটাইম একটি সাধারণ শব্দ যা আপনার লাইব্রেরি, কাঠামো বা প্ল্যাটফর্মকে বোঝায় যা আপনার কোড রান করে 
