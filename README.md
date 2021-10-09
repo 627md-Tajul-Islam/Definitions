@@ -485,3 +485,5 @@ Extensions are small software programs that customize the browsing experience.
 53/ what is file ?
 
 A computer file is a computer resource for recording data in a computer storage device.
+
+ফাইল কি?
