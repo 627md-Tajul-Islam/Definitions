@@ -452,4 +452,6 @@ Jamstack is an architecture designed to make the web faster, more secure, and ea
 
 49/ What is boilerplate ?
 
+A boilerplate is a unit of writing that can be reused over and over without change
+
 বয়লারপ্লেট কি?
