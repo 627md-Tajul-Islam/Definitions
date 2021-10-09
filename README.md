@@ -477,3 +477,5 @@ Bash is the shell, or command language interpreter, for the GNU operating system
 52/ what is extension ?
 
 Extensions are small software programs that customize the browsing experience.
+
+এক্সটেনশন হল ছোট সফটওয়্যার প্রোগ্রাম যা ব্রাউজিং অভিজ্ঞতাকে কাস্টমাইজ করে।
