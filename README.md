@@ -468,4 +468,6 @@ Runtime is a general term that refers to any library, framework, or platform tha
 
 51/ What is Bash?
 
+Bash is the shell, or command language interpreter, for the GNU operating system.
+
 ব্যাশ কি ?
