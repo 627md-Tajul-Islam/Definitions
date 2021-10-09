@@ -459,3 +459,5 @@ A boilerplate is a unit of writing that can be reused over and over without chan
 একটি বয়লারপ্লেট হল লেখার একক যা পরিবর্তন ছাড়াই বারবার ব্যবহার করা যায়
 
 50/ What is runtime?
+
+রানটাইম কি?
