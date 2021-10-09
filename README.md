@@ -489,3 +489,5 @@ A computer file is a computer resource for recording data in a computer storage 
 ফাইল কি?
 
 একটি কম্পিউটার ফাইল একটি কম্পিউটার স্টোরেজ ডিভাইসে ডেটা রেকর্ড করার জন্য একটি কম্পিউটার রিসোর্স।
+
+54/ what is folder?
