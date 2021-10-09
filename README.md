@@ -447,3 +447,5 @@ It refers to the development of both front end(client side) and back end(server 
 Jamstack is an architecture designed to make the web faster, more secure, and easier to scale. It builds on many of the tools and workflows which developers love, and which bring maximum productivity.
 
 জ্যামস্ট্যাক কি?
+
+জ্যামস্ট্যাক একটি আর্কিটেকচার যা ওয়েবকে দ্রুত, আরো নিরাপদ এবং স্কেল করা সহজ করার জন্য ডিজাইন করা হয়েছে। এটি অনেকগুলি সরঞ্জাম এবং কর্মপ্রবাহকে তৈরি করে যা ডেভেলপাররা পছন্দ করে এবং যা সর্বাধিক উত্পাদনশীলতা নিয়ে আসে।
