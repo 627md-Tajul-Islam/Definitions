@@ -517,3 +517,5 @@ VirtualBox is designed to run virtual machines on your physical machine without 
 57/ 
 
  The command is a directive to a computer program to perform a specific task.
+
+ কমান্ড একটি নির্দিষ্ট কাজ সম্পাদন করার জন্য একটি কম্পিউটার প্রোগ্রামের একটি নির্দেশ।
