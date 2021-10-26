@@ -521,3 +521,5 @@ VirtualBox is designed to run virtual machines on your physical machine without 
 একটি কমান্ড কি?
 
  কমান্ড একটি নির্দিষ্ট কাজ সম্পাদন করার জন্য একটি কম্পিউটার প্রোগ্রামের একটি নির্দেশ।
+
+ 58/
