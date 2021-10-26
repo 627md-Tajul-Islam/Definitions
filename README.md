@@ -515,3 +515,5 @@ VirtualBox is designed to run virtual machines on your physical machine without 
 ভার্চুয়ালবক্স ডিজাইন করা হয়েছে ভার্চুয়াল মেশিন চালানোর জন্য এবং এতে আপনার ফিজিক্যাল মেশিনে চলমান আপনার OS পুনরায় ইনস্টল করা লাগে না 
 
 57/ 
+
+ The command is a directive to a computer program to perform a specific task.
