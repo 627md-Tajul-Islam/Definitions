@@ -527,3 +527,5 @@ VirtualBox is designed to run virtual machines on your physical machine without 
  Package (sometimes called namespaces) are used to give a separate identity (name) to a group of classes.
 
  প্রোগ্রামিং এ প্যাকেজ কি?
+
+ প্যাকেজ (কখনও কখনও নেমস্পেস বলা হয়) ক্লাসের একটি গ্রুপকে একটি পৃথক পরিচয় (নাম) দিতে ব্যবহৃত হয়।
