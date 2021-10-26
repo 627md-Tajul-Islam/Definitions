@@ -533,3 +533,7 @@ VirtualBox is designed to run virtual machines on your physical machine without 
  59/ what is git ?
 
  Git is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development.
+
+ গিট কি ?
+
+ 
