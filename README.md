@@ -505,3 +505,6 @@ A virtual environment is a networked application that allows a user to interact 
 ভার্চুয়াল এনভায়রনমেন্ট কি?
 
 ভার্চুয়াল এনভায়রনমেন্ট হচ্ছে একটি নেটওয়ার্কেড অ্যাপ্লিকেশন যা ব্যবহারকারীকে কম্পিউটিং পরিবেশ এবং অন্যান্য ব্যবহারকারীর কাজ উভয়ের সাথেই ইন্টারঅ্যাক্ট করতে দেয়।
+
+56/ what is a virtualbox ?
+
