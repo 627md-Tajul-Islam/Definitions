@@ -531,4 +531,5 @@ VirtualBox is designed to run virtual machines on your physical machine without 
  প্যাকেজ (কখনও কখনও নেমস্পেস বলা হয়) ক্লাসের একটি গ্রুপকে একটি পৃথক পরিচয় (নাম) দিতে ব্যবহৃত হয়।
 
  59/ what is git ?
- 
+
+ Git is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development.
