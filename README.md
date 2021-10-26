@@ -508,3 +508,4 @@ A virtual environment is a networked application that allows a user to interact 
 
 56/ what is a virtualbox ?
 
+VirtualBox is designed to run virtual machines on your physical machine without reinstalling your OS that is running on a physical machine.
