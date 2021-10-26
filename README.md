@@ -511,3 +511,5 @@ A virtual environment is a networked application that allows a user to interact 
 VirtualBox is designed to run virtual machines on your physical machine without reinstalling your OS that is running on a physical machine.
 
 ভার্চুয়ালবক্স কি?
+
+ভার্চুয়ালবক্স ডিজাইন করা হয়েছে ভার্চুয়াল মেশিন চালানোর জন্য এবং এতে আপনার ফিজিক্যাল মেশিনে চলমান আপনার OS পুনরায় ইনস্টল করা লাগে না 
