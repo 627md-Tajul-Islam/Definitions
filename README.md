@@ -524,4 +524,6 @@ VirtualBox is designed to run virtual machines on your physical machine without 
 
  58/ what a is package in programming ?
 
+ Package (sometimes called namespaces) are used to give a separate identity (name) to a group of classes.
+
  প্রোগ্রামিং এ প্যাকেজ কি?
