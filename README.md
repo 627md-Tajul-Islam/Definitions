@@ -549,3 +549,6 @@ VirtualBox is designed to run virtual machines on your physical machine without 
 61/ what is gitlab ?
 
 GitLab Inc. is the open-core company that provides GitLab, the DevOps platform that combines the ability to develop, secure, and operate software in a single application.
+
+
+GitLab Inc. হল একটি ওপেন-কোর কোম্পানি যা GitLab প্রদান করে, DevOps প্ল্যাটফর্ম যা একটি একক অ্যাপ্লিকেশনে সফ্টওয়্যার বিকাশ, সুরক্ষিত এবং পরিচালনা করার ক্ষমতাকে একত্রিত করে।
