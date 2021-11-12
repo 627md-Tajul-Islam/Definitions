@@ -547,3 +547,5 @@ VirtualBox is designed to run virtual machines on your physical machine without 
  গিটহাব হল Git ব্যবহার করে সফ্টওয়্যার ডেভেলপমেন্ট এবং ভার্সন নিয়ন্ত্রণের জন্য ইন্টারনেট হোস্টিং প্রদানকারী।
 
 61/ what is gitlab ?
+
+GitLab Inc. is the open-core company that provides GitLab, the DevOps platform that combines the ability to develop, secure, and operate software in a single application.
