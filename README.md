@@ -555,3 +555,5 @@ GitLab Inc. is the open-core company that provides GitLab, the DevOps platform t
 GitLab Inc. হল একটি ওপেন-কোর কোম্পানি যা GitLab প্রদান করে, DevOps প্ল্যাটফর্ম যা একটি একক অ্যাপ্লিকেশনে সফ্টওয়্যার বিকাশ, সুরক্ষিত এবং পরিচালনা করার ক্ষমতাকে একত্রিত করে।
 
 62/ what is github copilot ?
+
+GitHub Copilot is an artificial intelligence tool developed by GitHub and OpenAI to assist users of Visual Studio Code, Neovim, and JetBrains by autocompleting code.
