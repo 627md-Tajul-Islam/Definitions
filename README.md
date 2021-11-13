@@ -559,3 +559,5 @@ GitLab Inc. হল একটি ওপেন-কোর কোম্পানি 
 GitHub Copilot is an artificial intelligence tool developed by GitHub and OpenAI to assist users of Visual Studio Code, Neovim, and JetBrains by autocompleting code.
 
 গিটহাব কো-পাইলট কি?
+
+GitHub Copilot হল একটি কৃত্রিম বুদ্ধিমত্তার টুল যা GitHub এবং OpenAI দ্বারা ভিজ্যুয়াল স্টুডিও কোড, Neovim, এবং JetBrains-এর ব্যবহারকারীদের স্বয়ংসম্পূর্ণ কোডের মাধ্যমে সাহায্য করার জন্য তৈরি করা হয়েছে।
