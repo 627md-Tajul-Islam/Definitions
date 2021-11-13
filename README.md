@@ -553,3 +553,5 @@ GitLab Inc. is the open-core company that provides GitLab, the DevOps platform t
 গিটল্যাব কি?
 
 GitLab Inc. হল একটি ওপেন-কোর কোম্পানি যা GitLab প্রদান করে, DevOps প্ল্যাটফর্ম যা একটি একক অ্যাপ্লিকেশনে সফ্টওয়্যার বিকাশ, সুরক্ষিত এবং পরিচালনা করার ক্ষমতাকে একত্রিত করে।
+
+62/ what is github copilot ?
