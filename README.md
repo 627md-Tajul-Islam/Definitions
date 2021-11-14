@@ -561,3 +561,6 @@ GitHub Copilot is an artificial intelligence tool developed by GitHub and OpenAI
 গিটহাব কো-পাইলট কি?
 
 GitHub Copilot হল একটি কৃত্রিম বুদ্ধিমত্তার টুল যা GitHub এবং OpenAI দ্বারা ভিজ্যুয়াল স্টুডিও কোড, Neovim, এবং JetBrains-এর ব্যবহারকারীদের স্বয়ংসম্পূর্ণ কোডের মাধ্যমে সাহায্য করার জন্য তৈরি করা হয়েছে।
+
+63/ what is Software repository ?
+
