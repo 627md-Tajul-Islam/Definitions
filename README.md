@@ -565,3 +565,5 @@ GitHub Copilot হল একটি কৃত্রিম বুদ্ধিম�
 63/ what is Software repository ?
 
 A software repository, or “repo” for short, is a storage location for software packages.
+
+সফটওয়্যার রিপোজিটারি কি?
