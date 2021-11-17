@@ -571,3 +571,6 @@ A software repository, or “repo” for short, is a storage location for softwa
 একটি সফ্টওয়্যার রিপোজিটারি, বা সংক্ষেপে "রেপো", সফ্টওয়্যার প্যাকেজগুলির জন্য একটি স্টোরেজ অবস্থান।
 
 64/ What is SQL?
+
+SQL is a domain-specific language used in programming and designed for managing data held in a relational database management system, or for stream processing in a relational data stream management system
+
