@@ -569,3 +569,5 @@ A software repository, or “repo” for short, is a storage location for softwa
 সফটওয়্যার রিপোজিটারি কি?
 
 একটি সফ্টওয়্যার রিপোজিটারি, বা সংক্ষেপে "রেপো", সফ্টওয়্যার প্যাকেজগুলির জন্য একটি স্টোরেজ অবস্থান।
+
+64/ What is SQL?
