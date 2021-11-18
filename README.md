@@ -583,3 +583,5 @@ SQL is a domain-specific language used in programming and designed for managing 
 A NoSQL database is exactly the type of database that can handle the sort of unstructured, messy and unpredictable data that our system of engagement requires
 
 নোএসকিউএল কি?
+
+নোএসকিউএল ডাটাবেস হল ঠিক সেই ধরনের ডাটাবেস যা আমাদের সিস্টেমের জন্য প্রয়োজনীয় অসংগঠিত, অগোছালো এবং অপ্রত্যাশিত ডেটা পরিচালনা করতে পারে
