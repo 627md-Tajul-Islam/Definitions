@@ -586,4 +586,8 @@ A NoSQL database is exactly the type of database that can handle the sort of uns
 
 নোএসকিউএল ডাটাবেস হল ঠিক সেই ধরনের ডাটাবেস যা আমাদের সিস্টেমের জন্য প্রয়োজনীয় অসংগঠিত, অগোছালো এবং অপ্রত্যাশিত ডেটা পরিচালনা করতে পারে
 
+<<<<<<< HEAD
 66/  What is the localhost?
+=======
+66/
+>>>>>>> d740210d0c3704c48515a2342d58ff6019aac9d6
